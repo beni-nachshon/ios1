@@ -15,6 +15,7 @@
 		9565760D271D7D3A002DA217 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9565760B271D7D3A002DA217 /* LaunchScreen.storyboard */; };
 		95657618271D7D3A002DA217 /* ios2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95657617271D7D3A002DA217 /* ios2Tests.swift */; };
 		95657623271D7D3A002DA217 /* ios2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95657622271D7D3A002DA217 /* ios2UITests.swift */; };
+		95657634271D91D1002DA217 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95657633271D91D1002DA217 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9565761E271D7D3A002DA217 /* ios2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ios2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		95657622271D7D3A002DA217 /* ios2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios2UITests.swift; sourceTree = "<group>"; };
 		95657624271D7D3A002DA217 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95657633271D91D1002DA217 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				95657602271D7D37002DA217 /* SceneDelegate.swift */,
 				95657604271D7D37002DA217 /* ViewController.swift */,
 				95657606271D7D37002DA217 /* Main.storyboard */,
+				95657633271D91D1002DA217 /* ViewController2.swift */,
 				95657609271D7D3A002DA217 /* Assets.xcassets */,
 				9565760B271D7D3A002DA217 /* LaunchScreen.storyboard */,
 				9565760E271D7D3A002DA217 /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				95657605271D7D37002DA217 /* ViewController.swift in Sources */,
+				95657634271D91D1002DA217 /* ViewController2.swift in Sources */,
 				95657601271D7D37002DA217 /* AppDelegate.swift in Sources */,
 				95657603271D7D37002DA217 /* SceneDelegate.swift in Sources */,
 			);

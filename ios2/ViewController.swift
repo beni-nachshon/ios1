@@ -26,6 +26,8 @@ class ViewController: UIViewController {
         vc2.contentOfTextFild = String(self.textfield.text ?? "") 
     
 }
+    
+    //3
 
 
 }
